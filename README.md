@@ -14,5 +14,5 @@ the activity number is replace by the activity name
 a mergeddata is crzeated by binding the data  contained in  subject, x and y
 groups of subject and activity are created in mergedgroup
 
-the final tidydata sumamrises the mergedgroup using the function mean()
+the final tidydata sumamrises the mergedgroup using the dplyr summarise_each with the function mean()
 
